@@ -1,5 +1,6 @@
 {
   "theme": "moonstone",
   "showRibbon": true,
-  "cssTheme": "Cupertino"
+  "cssTheme": "Cupertino",
+  "interfaceFontFamily": "Arial"
 }
