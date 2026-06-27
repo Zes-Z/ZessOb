@@ -1,3 +1,13 @@
 {
-  "promptDelete": false
+  "promptDelete": true,
+  "strictLineBreaks": true,
+  "showLineNumber": true,
+  "tabSize": 3,
+  "vimMode": false,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "附件",
+  "newLinkFormat": "shortest",
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": true
 }
