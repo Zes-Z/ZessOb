@@ -5,8 +5,30 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:课程  ",
+      "color": {
+        "a": 1,
+        "rgb": 16735340
+      }
+    },
+    {
+      "query": "path:成果  ",
+      "color": {
+        "a": 1,
+        "rgb": 16775777
+      }
+    },
+    {
+      "query": "path:学生  ",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": true,
   "textFadeMultiplier": 0,
@@ -17,6 +39,6 @@
   "repelStrength": 1.32615759545085,
   "linkStrength": 0.499559978337395,
   "linkDistance": 30,
-  "scale": 1.1145276443612997,
-  "close": true
+  "scale": 1.4769861972220233,
+  "close": false
 }
