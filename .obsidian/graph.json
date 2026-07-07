@@ -25,7 +25,42 @@
       "query": "path:学生  ",
       "color": {
         "a": 1,
-        "rgb": 11392604
+        "rgb": 7338812
+      }
+    },
+    {
+      "query": "path:论文  ",
+      "color": {
+        "a": 1,
+        "rgb": 6543342
+      }
+    },
+    {
+      "query": "path:测试节点1  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
+      }
+    },
+    {
+      "query": "path:测试节点2  ",
+      "color": {
+        "a": 1,
+        "rgb": 6073814
+      }
+    },
+    {
+      "query": "path:测试节点3  ",
+      "color": {
+        "a": 1,
+        "rgb": 6053078
+      }
+    },
+    {
+      "query": "path:测试节点5  ",
+      "color": {
+        "a": 1,
+        "rgb": 11361494
       }
     }
   ],
@@ -35,10 +70,10 @@
   "nodeSizeMultiplier": 1.73051380991064,
   "lineSizeMultiplier": 2.3461650419713,
   "collapse-forces": false,
-  "centerStrength": 0.497393717844571,
-  "repelStrength": 1.32615759545085,
+  "centerStrength": 0.503892499323044,
+  "repelStrength": 5.39872732196047,
   "linkStrength": 0.499559978337395,
   "linkDistance": 30,
-  "scale": 1.4769861972220233,
+  "scale": 1.1145276443613,
   "close": false
 }
