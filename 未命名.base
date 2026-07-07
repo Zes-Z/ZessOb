@@ -3,6 +3,9 @@ formulas:
 views:
   - type: table
     name: 表格
+    groupBy:
+      property: file.folder
+      direction: ASC
     order:
       - file.name
       - file.backlinks
