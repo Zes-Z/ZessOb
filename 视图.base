@@ -7,13 +7,14 @@ views:
       property: file.folder
       direction: ASC
     order:
-      - file.basename
-      - file.links
       - file.path
+      - file.links
+      - file.basename
       - file.tags
     sort: []
     columnSize:
-      file.basename: 207
+      file.path: 238
       file.links: 261
+      file.basename: 207
   - type: cards
     name: 视图
