@@ -7,12 +7,8 @@ views:
       property: file.folder
       direction: ASC
     order:
-      - file.name
-      - file.backlinks
-      - file.folder
-      - formula.未命名
-    sort:
-      - property: file.name
-        direction: ASC
+      - file.basename
+      - file.links
+    sort: []
   - type: cards
     name: 视图
