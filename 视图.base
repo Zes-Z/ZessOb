@@ -9,6 +9,11 @@ views:
     order:
       - file.basename
       - file.links
+      - file.path
+      - file.tags
     sort: []
+    columnSize:
+      file.basename: 207
+      file.links: 261
   - type: cards
     name: 视图
