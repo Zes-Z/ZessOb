@@ -1,7 +1,7 @@
 ---
-title: Zest
+title: "Zest"
 description:
-pubDate: {{date:YYYY-MM-DD}}
+pubDate: "2026-07-15"
 author: Zes Zheng
 tags:
   - Ominum

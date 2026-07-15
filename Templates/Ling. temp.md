@@ -1,8 +1,7 @@
 ---
 title: "{{title}}"
 description:
-pubDate:
-  "{ date:YYYY-MM-DD }":
+pubDate: "{{date}}"
 author: Zes Zheng
 tags:
   - Ling
