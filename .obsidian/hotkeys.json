@@ -1,1 +1,10 @@
-{}
+{
+  "calendar:open-weekly-note": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "L"
+    }
+  ]
+}
