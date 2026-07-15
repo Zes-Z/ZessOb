@@ -2,5 +2,10 @@
   "obsidian-git",
   "calendar",
   "obsidian-latex-suite",
-  "dataview"
+  "dataview",
+  "obsidian-excalidraw-plugin",
+  "templater-obsidian",
+  "table-editor-obsidian",
+  "obsidian-tasks-plugin",
+  "obsidian-style-settings"
 ]
