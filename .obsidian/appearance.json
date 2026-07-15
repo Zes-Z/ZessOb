@@ -1,10 +1,11 @@
 {
   "theme": "moonstone",
   "showRibbon": true,
-  "cssTheme": "Cupertino",
+  "cssTheme": "Baseline",
   "interfaceFontFamily": "Arial",
   "monospaceFontFamily": "Arial",
   "textFontFamily": "Calibri",
   "baseFontSize": 13,
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "accentColor": "#5cf566"
 }
